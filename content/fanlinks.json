@@ -1,0 +1,82 @@
+
+{
+    "001 Daily": 
+    {
+        "title": "001 Daily",
+        "artists": "Cots Listo",
+        "date": "7 month ago",
+        "image": "https://i.ytimg.com/vi/Z9FHHp0FJ2s/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBS5h2MOvSbh2flGaXtsmDu6G1zHg",
+        "image_secure": "https://i.ytimg.com/vi/Z9FHHp0FJ2s/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBS5h2MOvSbh2flGaXtsmDu6G1zHg",
+        "spotify": "https://open.spotify.com/track/7x7JeH4BdKv4hh1PHWBUxP?si=1f56d70592024ee6",
+        "youtube": "https://www.youtube.com/watch?v=Z9FHHp0FJ2s",
+        "dark": false
+    },
+    "Betie Betie": 
+    {
+        "title": "Besti Bestie",
+        "artists": "Cots Listo",
+        "date": "1 year ago",
+        "image": "https://i.ytimg.com/vi/qWREyU91m8o/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD46p2S8OREl3buw2rCQpeirr6LCw",
+        "image_secure": "https://i.ytimg.com/vi/qWREyU91m8o/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD46p2S8OREl3buw2rCQpeirr6LCw",
+        "spotify": "https://open.spotify.com/album/2TwWRuYD4rb7ygIfUkOBFF?si=sTOjSXrfR66ouqs6NLBCrw",
+        "youtube": "https://www.youtube.com/watch?v=qWREyU91m8o",
+        "dark": false
+    },
+    "Just Do It": 
+    {
+        "title": "Just Do It",
+        "artists": "Cots Listo",
+        "date": "1 year ago",
+        "image": "https://i.ytimg.com/vi/ohSgY4OIu6M/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHZOzM-nUTrBvrbHXN0prsVuumvQ",
+        "image_secure": "https://i.ytimg.com/vi/ohSgY4OIu6M/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHZOzM-nUTrBvrbHXN0prsVuumvQ",
+        "spotify": "https://open.spotify.com/track/7x7JeH4BdKv4hh1PHWBUxP?si=1f56d70592024ee6",
+        "youtube": "https://www.youtube.com/watch?v=ohSgY4OIu6M",
+        "dark": false
+    },
+    "School Boy": 
+    {
+        "title": "School Boy",
+        "artists": "Cots Listo",
+        "date": "3 years ago",
+        "image": "https://i.ytimg.com/vi/YBKkW9b2ebU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbMla5hyJEzjDDPcWQRoZ-2DFNSA",
+        "image_secure": "https://i.ytimg.com/vi/YBKkW9b2ebU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbMla5hyJEzjDDPcWQRoZ-2DFNSA",
+        "spotify": "https://open.spotify.com/album/3jIhPXKGXZThartRp1kw7M?si=SSFwARA2TcSoEHaghpsV9g",
+        "youtube": "https://www.youtube.com/watch?v=TP1q-SXp-WU",
+        "dark": false
+    },
+    "Jara": 
+    {
+        "title": "Jara",
+        "artists": "Cots List ft Khaid Open Verse",
+        "date": "1 year ago",
+        "image": "https://i.ytimg.com/vi/YBKkW9b2ebU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbMla5hyJEzjDDPcWQRoZ-2DFNSA",
+        "image_secure": "https://i.ytimg.com/vi/YBKkW9b2ebU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbMla5hyJEzjDDPcWQRoZ-2DFNSA",
+        "spotify": "https://open.spotify.com/album/3jIhPXKGXZThartRp1kw7M?si=SSFwARA2TcSoEHaghpsV9g",
+        "youtube": "https://www.youtube.com/watch?v=YBKkW9b2ebU",
+        "dark": false
+    },
+    "Late At Night": 
+    {
+        "title": "Late At Night",
+        "artists": "Cots Listo",
+        "date": "3 years ago",
+        "image": "https://i.ytimg.com/vi/SfzKRMHmJ6k/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBU2DyHwMg-q5DmDdC2MIj4NxOhCg",
+        "image_secure": "https://i.ytimg.com/vi/SfzKRMHmJ6k/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBU2DyHwMg-q5DmDdC2MIj4NxOhCg",
+        "spotify": "https://open.spotify.com/album/7FTsILdv7v6dOG2kLHUUhN?si=H6piGzsYTgWN0LMXlLDAkw",
+        "youtube": "https://www.youtube.com/watch?v=SfzKRMHmJ6k&list=OLAK5uy_lhAz6U-1odS3jNT9-qy-hpWay8mDJbTag&index=1&pp=8AUB",
+        "dark": false
+    },
+    "Come Fi Dem": 
+    {
+        "title": "Com Fi Dem",
+        "artists": "Cots List",
+        "date": "2 years ago",
+        "image": "https://i.ytimg.com/vi/FcUCeOm0pH4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCfZeCLGkV_ad-njX-kvGQ9g77CUA",
+        "image_secure": "https://i.ytimg.com/vi/FcUCeOm0pH4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCfZeCLGkV_ad-njX-kvGQ9g77CUA",
+        "spotify": "https://open.spotify.com/album/3h6tkYskQJ2gQMPVG2doFE?si=vK_ALXV-SfmI4fZMmh0o_A",
+        "youtube": "https://www.youtube.com/watch?v=FcUCeOm0pH4&list=OLAK5uy_nlHdO3PiIJApwe77-3UPLdO9sJyGxuqRw&index=1&pp=8AUB",
+        "dark": false
+    }
+    
+    
+}

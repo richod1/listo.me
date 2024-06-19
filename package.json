@@ -1,0 +1,24 @@
+{
+  "name": "bayza",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "lint": "eslint --fix ."
+  },
+  "devDependencies": {
+    "@nuxt/eslint": "^0.3.13",
+    "@nuxtjs/sitemap": "^5.2.0",
+    "@types/node": "^20.12.13",
+    "nuxt": "^3.11.2"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "eslint": "^9.3.0",
+    "nuxt-aos": "^1.2.4",
+    "nuxt-icon": "^0.6.10"
+  }
+}
